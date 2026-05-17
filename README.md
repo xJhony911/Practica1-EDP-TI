@@ -16,7 +16,8 @@ Docente: Lic. Miriam Ávila P. Mg.
 | `Grupo_1_práctica_1.pdf` | Informe de laboratorio completo |
 
 ## ▶️ Ejecutar en Google Colab
-[![Abrir en Colab](https://colab.research.google.com/drive/1J3hvBFMBpW9deCJsxi2DtvMZipIGE7-w?usp=sharing)
+https://colab.research.google.com/drive/1J3hvBFMBpW9deCJsxi2DtvMZipIGE7-w?usp=sharing
+
 
 ## Actividades resueltas
 1. Clasificación de EDP (elíptica, parabólica, hiperbólica) y visualización 3D
